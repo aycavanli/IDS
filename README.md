@@ -1,6 +1,8 @@
-Network based Intrusion Detection System
+Machine Learning Enhanced Intrusion Detection System
 
-Used Dataset: CICIDS2017 dataset.
-Used Model: Isolation Forest.
+This academy research is presented at the ISC Turkey's 15th Interntational Information Security and Cryptology Conference.
 
-Link to the video presentation of the research project : https://drive.google.com/file/d/10O2jkHZFrwxPpaG5zNhwRvJImB-hTDEg/view?usp=sharing
+Dataset: CICIDS2017
+Model: CNN-BiLSTM
+Loss: 0.07
+Accuracy: 0.96
